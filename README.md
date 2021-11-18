@@ -137,7 +137,7 @@
 
 - Download or git clone the repository
 - Open PowerShell and get inside the `git` folder you downloaded
-- Run : `. .\Build-RootAVD.ps1` or `Import-Module .\Build-RootAVD.ps1` (TAB WORKS :wink:)
+- Run : `. .\RASEv1.ps1` or `Import-Module .\RASEv1.ps1` (TAB WORKS :wink:)
 - First run : `Build-RootAVD`
 - It will show the result as
 
